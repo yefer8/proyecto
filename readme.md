@@ -8,3 +8,5 @@ EAP **ISI**
 | Nombre | Rol |
 | ------ | ----- |
 | Yeferson Ramon | Scrum Master |
+| Luis Perez | Desarrollador |
+
